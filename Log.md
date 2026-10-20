@@ -5,10 +5,10 @@ verification procedures, corrections, and research decisions.
 
 ## Project Information
 
-- Project:
-- Author:
-- Started:
-- Last Updated:
+- Project: Project 4 trivia questions
+- Author: Zayd Martin
+- Started: 10/13
+- Last Updated:10/20
 
 ---
 
